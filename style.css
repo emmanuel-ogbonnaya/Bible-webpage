@@ -1,7 +1,10 @@
 body{
-    background: url(images/download\ \(15\).jpg);
+    background: url(images/오래\ 된\ 나무\ 테이블에\ 책을\ 엽니다_\ _\ 프리미엄\ 사진.jpg);
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22px;
-    color: white;
+    color: black;
+}
+#text {
+    white-space: pre-wrap;
 }
