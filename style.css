@@ -1,10 +1,35 @@
 body{
-    background: url(images/오래\ 된\ 나무\ 테이블에\ 책을\ 엽니다_\ _\ 프리미엄\ 사진.jpg);
+    background: url(images/Light\ background\ image_.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
     padding: 10px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
     color: black;
 }
+h1, h2 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
 #text {
     white-space: pre-wrap;
+}
+#verse {
+    padding: 12px;
+    margin: 15px 0;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    font-size: 17px;
+}
+#getverse-btn {
+    padding: 13px 18px;
+    background-color: #c49b66;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    margin: 4px;
+    cursor: pointer;
 }
